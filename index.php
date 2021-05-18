@@ -10,7 +10,7 @@ echo file_get_contents('/etc/hostname');
 
 echo "<center><br/> \n";
 
-echo "<img src=https://github.com/guillermodep/http-base/blob/master/star_elefant.png?raw=true>";
+echo "<img src=https://github.com/guillermodep/http-base/blob/master/logo_banco_pichincha_portada_0.jpeg?raw=true>";
 
  
 ?>
