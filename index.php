@@ -4,7 +4,7 @@ echo "<center><h1>Prueba deploy en alta disponibilidad y deploy A - B</h1</cente
 
 echo "Hola SRE, This is VERSION 1.0 ------   My Pod IP is : ";
 
-echo "<p> <font color=red>";
+echo "<p> <font color=lightred>";
 
 echo file_get_contents('/etc/hostname');
 
